@@ -10,7 +10,7 @@ layout: home
 
 Mimi is a [Julia](http://julialang.org) package for [integrated assessment models](https://en.wikipedia.org/wiki/Integrated_assessment_modelling). 
 
-The source code for this package is located in on Github [here](https://github.com/mimiframework/Mimi.jl), and for detailed information on the installation and use of this package, as well as several tutorials, please see the [Documentation](https://www.mimiframework.org/Mimi.jl/stable/). For specific requests for new functionality, or bug reports, please add an Issue to our [Github repository](https://github.com/mimiframework/Mimi.jl)).
+The source code for this package is located in on Github [here](https://github.com/mimiframework/Mimi.jl), and for detailed information on the installation and use of this package, as well as several tutorials, please see the [Documentation](https://www.mimiframework.org/Mimi.jl/stable/). For specific requests for new functionality, or bug reports, please add an Issue to our [Github repository](https://github.com/mimiframework/Mimi.jl).
 
 Please get in touch with [David Anthoff](http://www.david-anthoff.com) if you are interested in using this framework or want to be involved in any way with this effort. Support for users is primarily hosted on the [Mimi Framework forum](https://forum.mimiframework.org).
 
