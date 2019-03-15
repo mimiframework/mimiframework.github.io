@@ -10,22 +10,22 @@ layout: home
 
 Mimi is a [Julia](http://julialang.org) package for [integrated assessment models](https://en.wikipedia.org/wiki/Integrated_assessment_modelling). 
 
-The source code for this package is located in on Github [here](https://github.com/mimiframework/Mimi.jl), and for detailed information on the installation and use of this package, as well as several tutorials, please see the [Documentation](https://www.mimiframework.org/Mimi.jl/stable/). For specific requests for new functionality, or bug reports, please add an Issue to our [Github repository](https://github.com/mimiframework/Mimi.jl).
+The source code for this package is located in on Github [here](https://github.com/mimiframework/Mimi.jl), and for detailed information on the installation and use of this package, as well as several tutorials, please see the [Documentation](https://www.mimiframework.org/Mimi.jl/stable/). For specific requests for new functionality, or bug reports, please add an [Issue](https://github.com/mimiframework/Mimi.jl/issues) to the repository.
 
-Please get in touch with [David Anthoff](http://www.david-anthoff.com) if you are interested in using this framework or want to be involved in any way with this effort. Support for users is primarily hosted on the [Mimi Framework forum](https://forum.mimiframework.org).
+Support for users is primarily hosted on the [Mimi Framework forum](https://forum.mimiframework.org). Please get in touch with [David Anthoff](http://www.david-anthoff.com) if you have further questions about using this framework or want to be involved in any way with this effort.
 
 
 ## Models using Mimi
 
 Several models already use the Mimi framework, including those linked below.
 
-* [FUND.jl](https://github.com/davidanthoff/fund.jl) (currently in beta)
-* [Mimi-DICE-2010.jl](https://github.com/anthofflab/mimi-dice-2010.jl) (currently in closed beta)
-* [Mimi-DICE-2013.jl](https://github.com/anthofflab/mimi-dice-2013.jl) (currently in closed beta)
-* [Mimi-RICE.jl](https://github.com/anthofflab/mimi-rice-2010.jl)
+* [MimiFUND.jl](https://github.com/davidanthoff/MimiFUND.jl) (currently in beta)
+* [MimiDICE2010.jl](https://github.com/anthofflab/MimiDICE2010.jl) (currently in closed beta)
+* [MimiDICE2013.jl](https://github.com/anthofflab/MimiDICE2013.jl) (currently in closed beta)
+* [MimiRICE2010.jl](https://github.com/anthofflab/MimiRICE2010.jl)
 * [Mimi-SNEASY.jl](https://github.com/anthofflab/mimi-sneasy.jl) (currently in closed beta)
 * [Mimi-FAIR.jl](https://github.com/anthofflab/mimi-fair.jl/) (currently in closed beta)
-* [Mimi-PAGE.jl](https://github.com/anthofflab/mimi-page.jl/) (currently in closed beta)
+* [MimiPAGE2009.jl](https://github.com/anthofflab/MimiPAGE2009.jl/) (currently in closed beta)
 * [Mimi-MAGICC.jl](https://github.com/anthofflab/mimi-magicc.jl) (CH4 parts currently in closed beta)
 * [Mimi-HECTOR.jl](https://github.com/anthofflab/mimi-hector.jl) (CH4 parts currently in closed beta)
 * [Mimi-CIAM.jl](https://github.com/anthofflab/mimi-ciam.jl) (currently in closed beta)
@@ -34,11 +34,19 @@ Several models already use the Mimi framework, including those linked below.
 
 ## Mimi Registry
 
-For convenience, several models are registered in the [MimiRegistry](https://github.com/anthofflab/Mimi.jl), and operate as julia packages. For details on connecting to this central Mimi registry, see the Mimi [documentation](www.mimiframework.org/Mimi.jl/stable/).
+For convenience, several models are registered in the [MimiRegistry](https://github.com/anthofflab/Mimi.jl), and operate as packages with the Julia package manager [Pkg](https://docs.julialang.org/en/v1/stdlib/Pkg/index.html). For details on connecting to this central Mimi registry, see the Mimi [Documentation](www.mimiframework.org/Mimi.jl/stable/).
+
+The models currently included in the registry include those linked below.
+
+* [MimiFUND.jl](https://github.com/davidanthoff/MimiFUND.jl) (currently in beta)
+* [MimiDICE2010.jl](https://github.com/anthofflab/MimiDICE2010.jl) (currently in closed beta)
+* [MimiDICE2013.jl](https://github.com/anthofflab/MimiDICE2013.jl) (currently in closed beta)
+* [MimiRICE2010.jl](https://github.com/anthofflab/MimiRICE2010.jl)
+* [MimiPAGE2009.jl](https://github.com/anthofflab/MimiPAGE2009.jl/) (currently in closed beta)
 
 ## Contributing
 
-Contributions to Mimi are most welcome! You can interact with the Mimi development team via issues and pull requests here on github, and in the [Mimi Framework forum](https://forum.mimiframework.org).
+Contributions to Mimi are most welcome! You can interact with the Mimi development team via issues and pull requests on Github, and in the [Mimi Framework forum](https://forum.mimiframework.org).
 
 ## Acknowledgements
 
