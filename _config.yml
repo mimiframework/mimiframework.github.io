@@ -1,6 +1,6 @@
-title: Mimi: An Integrated Assessment Modeling Framework
-author: David Anthoff, Richard Plevin, Cora Kingdon, and Lisa Rennels
-email: anthoff@berkeley.edu
+title: "Mimi: An Integrated Assessment Modeling Framework"
+author: "David Anthoff, Richard Plevin, Cora Kingdon, and Lisa Rennels"
+email: "anthoff@berkeley.edu"
 description: > # this means to ignore newlines until "show_exerpts:"
   Mimi is a package that provides a component model for integrated assessment 
   models.
