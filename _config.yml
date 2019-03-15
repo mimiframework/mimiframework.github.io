@@ -1,1 +1,24 @@
-theme: jekyll-theme-cayman
+title: Mimi: An Integrated Assessment Modeling Framework
+author: David Anthoff, Richard Plevin, Cora Kingdon, and Lisa Rennels
+email: anthoff@berkeley.edu
+description: > # this means to ignore newlines until "show_exerpts:"
+  Mimi is a package that provides a component model for integrated assessment 
+  models.
+show_excerpts: false # set to true to show excerpts on the homepage
+
+# Minima date format
+# refer to http://shopify.github.io/liquid/filters/date/ if you want to customize this
+minima:
+  date_format: "%b %-d, %Y"
+
+  # generate social links in footer
+  social_links:
+    github:  mimiframework
+
+# If you want to link only specific pages in your header, uncomment
+# this and add the path to the pages in order as they should show up
+# header_pages:
+# - Contact.md
+
+# Build settings
+theme: minima
