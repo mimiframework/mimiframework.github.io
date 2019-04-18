@@ -19,13 +19,13 @@ Support for users is primarily hosted on the [Mimi Framework forum](https://foru
 
 Several models already use the Mimi framework, including those linked below.
 
-* [MimiFUND.jl](https://github.com/davidanthoff/MimiFUND.jl) (currently in beta)
+* [MimiFUND.jl](https://github.com/davidanthoff/MimiFUND.jl)
 * [MimiDICE2010.jl](https://github.com/anthofflab/MimiDICE2010.jl) (currently in closed beta)
 * [MimiDICE2013.jl](https://github.com/anthofflab/MimiDICE2013.jl) (currently in closed beta)
 * [MimiRICE2010.jl](https://github.com/anthofflab/MimiRICE2010.jl)
 * [Mimi-SNEASY.jl](https://github.com/anthofflab/mimi-sneasy.jl) (currently in closed beta)
 * [Mimi-FAIR.jl](https://github.com/anthofflab/mimi-fair.jl/) (currently in closed beta)
-* [MimiPAGE2009.jl](https://github.com/anthofflab/MimiPAGE2009.jl/) (currently in closed beta)
+* [MimiPAGE2009.jl](https://github.com/anthofflab/MimiPAGE2009.jl/)
 * [Mimi-MAGICC.jl](https://github.com/anthofflab/mimi-magicc.jl) (CH4 parts currently in closed beta)
 * [Mimi-HECTOR.jl](https://github.com/anthofflab/mimi-hector.jl) (CH4 parts currently in closed beta)
 * [Mimi-CIAM.jl](https://github.com/anthofflab/mimi-ciam.jl) (currently in closed beta)
@@ -38,11 +38,11 @@ For convenience, several models are registered in the [MimiRegistry](https://git
 
 The models currently included in the registry include those linked below.
 
-* [MimiFUND.jl](https://github.com/davidanthoff/MimiFUND.jl) (currently in beta)
+* [MimiFUND.jl](https://github.com/davidanthoff/MimiFUND.jl)
 * [MimiDICE2010.jl](https://github.com/anthofflab/MimiDICE2010.jl) (currently in closed beta)
 * [MimiDICE2013.jl](https://github.com/anthofflab/MimiDICE2013.jl) (currently in closed beta)
 * [MimiRICE2010.jl](https://github.com/anthofflab/MimiRICE2010.jl)
-* [MimiPAGE2009.jl](https://github.com/anthofflab/MimiPAGE2009.jl/) (currently in closed beta)
+* [MimiPAGE2009.jl](https://github.com/anthofflab/MimiPAGE2009.jl)
 
 ## Contributing
 
