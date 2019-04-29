@@ -34,7 +34,7 @@ Several models already use the Mimi framework, including those linked below.
 
 ## Mimi Registry
 
-For convenience, several models are registered in the [MimiRegistry](https://github.com/anthofflab/Mimi.jl), and operate as packages with the Julia package manager [Pkg](https://docs.julialang.org/en/v1/stdlib/Pkg/index.html). For details on connecting to this central Mimi registry, see the Mimi [Documentation](www.mimiframework.org/Mimi.jl/stable/).
+For convenience, several models are registered in the [MimiRegistry](https://github.com/anthofflab/Mimi.jl), and operate as packages with the Julia package manager [Pkg](https://docs.julialang.org/en/v1/stdlib/Pkg/index.html). For details on connecting to this central Mimi registry, see the Mimi [Documentation](https://www.mimiframework.org/Mimi.jl/stable/).
 
 The models currently included in the registry include those linked below.
 
