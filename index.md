@@ -12,8 +12,11 @@ Mimi is a [Julia](http://julialang.org) package for [integrated assessment model
 
 The source code for this package is located in on Github [here](https://github.com/mimiframework/Mimi.jl), and for detailed information on the installation and use of this package, as well as several tutorials, please see the [Documentation](https://www.mimiframework.org/Mimi.jl/stable/). For specific requests for new functionality, or bug reports, please add an [Issue](https://github.com/mimiframework/Mimi.jl/issues) to the repository.
 
-Support for users is primarily hosted on the [Mimi Framework forum](https://forum.mimiframework.org). Please get in touch with [David Anthoff](http://www.david-anthoff.com) if you have further questions about using this framework or want to be involved in any way with this effort.
+Support for users is primarily hosted on the [Mimi Framework forum](https://forum.mimiframework.org), where we also post PSA topics with recent software updates and important information for users. Please get in touch with [David Anthoff](http://www.david-anthoff.com) if you have further questions about using this framework or want to be involved in any way with this effort.
 
+## News
+
+The Mimi developement team recently participated in the 2019 Association of Environmental and Resource Economists (AERE) summer conference during the pre-conference workshop on Advances in Integrated Assessment Models. This included both a presentation and a hands-on session demonstrating various use cases for Mimi. The Github repository [here](https://github.com/davidanthoff/teaching-2019-aere-workshop) contains a) all slides from the workshop and b) all the code from the hands on sessions, which may be of interest to Mimi users.
 
 ## Models using Mimi
 
