@@ -54,4 +54,4 @@ Contributions to Mimi are most welcome! You can interact with the Mimi developme
 
 ## Acknowledgements
 
-This work is partially supported by the National Science Foundation through the Network for Sustainable Climate Risk Management ([SCRiM](http://scrimhub.org/)) under NSF cooperative agreement GEO-1240507.
+This work is supported by the [Alfred P. Sloan Foundation](https://sloan.org/) and by the National Science Foundation through the Network for Sustainable Climate Risk Management ([SCRiM](http://scrimhub.org/)) under NSF cooperative agreement GEO-1240507.
