@@ -25,6 +25,7 @@ Several models already use the Mimi framework, including those linked below.
 * [MimiFUND.jl](https://github.com/fund-model/MimiFUND.jl)
 * [MimiDICE2010.jl](https://github.com/anthofflab/MimiDICE2010.jl)
 * [MimiDICE2013.jl](https://github.com/anthofflab/MimiDICE2013.jl)
+* [MimiDICE2016.jl](https://github.com/AlexandrePavlov/MimiDICE2016.jl)
 * [MimiRICE2010.jl](https://github.com/anthofflab/MimiRICE2010.jl)
 * [Mimi-SNEASY.jl](https://github.com/anthofflab/mimi-sneasy.jl) (currently in closed beta)
 * [Mimi-FAIR.jl](https://github.com/anthofflab/mimi-fair.jl/) (currently in closed beta)
