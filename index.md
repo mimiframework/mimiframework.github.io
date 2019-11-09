@@ -26,7 +26,7 @@ Several models already use the Mimi framework, including those linked below.
 * [MimiDICE2010.jl](https://github.com/anthofflab/MimiDICE2010.jl)
 * [MimiDICE2013.jl](https://github.com/anthofflab/MimiDICE2013.jl)
 * [MimiDICE2016.jl](https://github.com/AlexandrePavlov/MimiDICE2016.jl)
-* [MimiRICE2010.jl](https://github.com/anthofflab/MimiRICE2010.
+* [MimiRICE2010.jl](https://github.com/anthofflab/MimiRICE2010.jl)
 * [Mimi-SNEASY.jl](https://github.com/anthofflab/mimi-sneasy.jl) (currently in closed beta)
 * [Mimi-FAIR.jl](https://github.com/anthofflab/mimi-fair.jl/) (currently in closed beta)
 * [MimiPAGE2009.jl](https://github.com/anthofflab/MimiPAGE2009.jl/)
@@ -38,6 +38,7 @@ Several models already use the Mimi framework, including those linked below.
 * [AWASH](http://awashmodel.org/)
 * [PAGE-ICE](https://github.com/openmodels/PAGE-ICE)
 * [RICE+AIR](https://github.com/Environment-Research/AIR)
+
 ## Mimi Registry
 
 For convenience, several models are registered in the [MimiRegistry](https://github.com/mimiframework/Mimi.jl), and operate as packages with the Julia package manager [Pkg](https://docs.julialang.org/en/v1/stdlib/Pkg/index.html). For details on connecting to this central Mimi registry, see the Mimi [Documentation](https://www.mimiframework.org/Mimi.jl/stable/).
