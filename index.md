@@ -34,8 +34,10 @@ Several models already use the Mimi framework, including those linked below.
 * [Mimi-HECTOR.jl](https://github.com/anthofflab/mimi-hector.jl) (CH4 parts currently in closed beta)
 * [Mimi-CIAM.jl](https://github.com/anthofflab/mimi-ciam.jl) (currently in closed beta)
 * [Mimi-BRICK.jl](https://github.com/anthofflab/mimi-brick.jl) (currently in closed beta)
+* [mimi_NICE](https://github.com/fdennig/mimi_NICE) (currently in closed beta)
 * [AWASH](http://awashmodel.org/)
 * [PAGE-ICE](https://github.com/openmodels/PAGE-ICE)
+* [RICE+AIR](https://github.com/Environment-Research/AIR)
 
 ## Mimi Registry
 
