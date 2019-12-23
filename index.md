@@ -8,7 +8,7 @@
 layout: home
 ---
 
-Mimi is a [Julia](http://julialang.org) package for [integrated assessment models](https://en.wikipedia.org/wiki/Integrated_assessment_modelling). 
+Mimi is a [Julia](http://julialang.org) package for [integrated assessment models](https://en.wikipedia.org/wiki/Integrated_assessment_modelling) developed in connection with Resources for the Future's [Social Cost of Carbon Initiative](https://www.rff.org/topics/scc/). 
 
 The source code for this package is located on Github [here](https://github.com/mimiframework/Mimi.jl), and for detailed information on the installation and use of this package, as well as several tutorials, please see the [Documentation](https://www.mimiframework.org/Mimi.jl/stable/). For specific requests for new functionality, or bug reports, please add an [Issue](https://github.com/mimiframework/Mimi.jl/issues) to the repository.
 
@@ -57,4 +57,4 @@ Contributions to Mimi are most welcome! You can interact with the Mimi developme
 
 ## Acknowledgements
 
-This work is supported by the [Alfred P. Sloan Foundation](https://sloan.org/) and by the National Science Foundation through the Network for Sustainable Climate Risk Management ([SCRiM](http://scrimhub.org/)) under NSF cooperative agreement GEO-1240507.
+This work is supported by the [Alfred P. Sloan Foundation](https://sloan.org/) through Resources for the Future's [Social Cost of Carbon Initiative](https://www.rff.org/topics/scc/) and by the National Science Foundation through the Network for Sustainable Climate Risk Management ([SCRiM](http://scrimhub.org/)) under NSF cooperative agreement GEO-1240507.
