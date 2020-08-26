@@ -12,7 +12,7 @@ on:
     #     on the master branch; also, at the end of the file, change to
     #    `BRANCH: master`
     branches:
-      - dev
+      - master
 jobs:
   build-and-deploy:
     runs-on: ubuntu-latest
