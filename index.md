@@ -1,11 +1,11 @@
 @def title = "Mimi"
 
-# Mimi: An Integrated Assessment Modeling Framework
+# Mimi 
 
 \tableofcontents <!-- you can use \toc as well -->
 
-## Introduction 
-
+## Mimi: An Integrated Assessment Modeling Framework
+ 
 Mimi is a [Julia](http://julialang.org) package for [integrated assessment models](https://en.wikipedia.org/wiki/Integrated_assessment_modelling) developed in connection with Resources for the Future's [Social Cost of Carbon Initiative](https://www.rff.org/topics/scc/). 
 
 The source code for this package is located on Github [here](https://github.com/mimiframework/Mimi.jl), and for detailed information on the installation and use of this package, as well as several tutorials, please see the [Documentation](https://www.mimiframework.org/Mimi.jl/stable/). For specific requests for new functionality, or bug reports, please add an [Issue](https://github.com/mimiframework/Mimi.jl/issues) to the repository.
