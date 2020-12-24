@@ -55,6 +55,8 @@ jobs:
             optimize()'
     - name: Build and Deploy
       uses: JamesIves/github-pages-deploy-action@releases/v3
+      env:
+        ACTIONS_ALLOW_UNSECURE_COMMANDS: 'true'
       with:
         SSH: true
         # NOTE
