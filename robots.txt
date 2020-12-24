@@ -1,4 +1,0 @@
-Sitemap: https://www.mimiframework.org/sitemap.xml
-
-User-agent: *
-Disallow:
