@@ -17,7 +17,6 @@ jobs:
   build-and-deploy:
     runs-on: ubuntu-latest
     steps:
-    # add actions step
     - name: ACTIONS_ALLOW_UNSECURE_COMMANDS
       id: ACTIONS_ALLOW_UNSECURE_COMMANDS
       run: echo 'ACTIONS_ALLOW_UNSECURE_COMMANDS=true' >> $GITHUB_ENV
