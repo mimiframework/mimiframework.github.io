@@ -194,7 +194,7 @@ SIDE BAR
   color:#5c5962
 }
 .menu-list-item{
-  font-size:18px !important;
+  font-size:14px !important;
   margin:0
 }
 .menu-list-item .menu-list-child-list{
@@ -252,7 +252,7 @@ input[type=checkbox]:checked ~ #side-menu{display: block;}
     font-size:24px !important
   }
   .menu-list-item{
-    font-size:18px !important
+    font-size:16px !important
   }
 }
 /* side bar adjustments for medium mode (bar on side) */
