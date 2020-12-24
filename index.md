@@ -4,7 +4,7 @@
 
 \tableofcontents <!-- you can use \toc as well -->
 
-## Mimi: An Integrated Assessment Modeling Framework TESTING123
+## Mimi: An Integrated Assessment Modeling Framework
  
 Mimi is a [Julia](http://julialang.org) package for [integrated assessment models](https://en.wikipedia.org/wiki/Integrated_assessment_modelling) developed in connection with Resources for the Future's [Social Cost of Carbon Initiative](https://www.rff.org/topics/scc/). 
 
