@@ -16,14 +16,10 @@ on:
 jobs:
   build-and-deploy:
     runs-on: ubuntu-latest
-    steps:
     - name: Checkout
       uses: actions/checkout@v2
       with:
         persist-credentials: false
-    - name: ACTIONS_ALLOW_UNSECURE_COMMANDS
-      id: ACTIONS_ALLOW_UNSECURE_COMMANDS
-      run: echo 'ACTIONS_ALLOW_UNSECURE_COMMANDS=true' >> $GITHUB_ENV
     - name: Install SSH Client
       continue-on-error: true
       uses: webfactory/ssh-agent@v0.2.0
@@ -41,7 +37,7 @@ jobs:
     - name: Install Julia
       uses: julia-actions/setup-julia@v1
       with:
-        version: 1.4.1
+        version: 1.5
     # NOTE
     #   The steps below ensure that NodeJS and Franklin are loaded then it
     #   installs highlight.js which is needed for the prerendering step.
