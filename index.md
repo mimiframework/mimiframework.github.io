@@ -16,7 +16,7 @@ Support for users is primarily hosted on the [Mimi Framework forum](https://foru
 
 ## Models using Mimi
 
-Several models already use the Mimi framework, including those linked below.
+Several models already use the Mimi framework, including those linked below. You may notice that several of these models operate as Julia packages under the [Pkg](https://docs.julialang.org/en/v1/stdlib/Pkg/index.html) interface, as indicated in their respective Github README sections. This practice is explained further in the documentation: [Explanation: Models as Packages](https://www.mimiframework.org/Mimi.jl/stable/exp/exp_pkg/). 
 
 * [MimiFUND.jl](https://github.com/fund-model/MimiFUND.jl)
 * [MimiDICE2010.jl](https://github.com/anthofflab/MimiDICE2010.jl)
