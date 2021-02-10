@@ -16,7 +16,7 @@ Support for users is primarily hosted on the [Mimi Framework forum](https://foru
 
 ## Models using Mimi
 
-Several models already use the Mimi framework, including those linked below. A majority of these models are part of the Mimi registry as detailed in the Mimi Registry subsection of this website. This practice is explained further in the documentation section "Explanations: Models as Packages".
+Several models already use the Mimi framework, including those linked below. A majority of these models are part of the Mimi registry as detailed in the Mimi Registry subsection of this website. Note also that even models not registerd in the Mimi registry may be constructed to operate as packages. These practices are explained further in the documentation section "Explanations: Models as Packages".
 
 * [MimiFUND.jl](https://github.com/fund-model/MimiFUND.jl)
 * [MimiDICE2010.jl](https://github.com/anthofflab/MimiDICE2010.jl)
