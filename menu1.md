@@ -12,11 +12,11 @@ On February 10, 2021, Resources for the Future (RFF) held a [live webinar](https
 
 **This webinar highlighted Mimi as a "free, open-source computing platform allows users to access, run, and modify the social cost of carbon (SCC) models used by the federal Interagency Working Group to estimate the SCC"**, and was paired with the [Social Cost of Carbon Computing Platform: Models from the Interagency Working Group](https://www.rff.org/publications/data-tools/social-cost-of-carbon-computing-platform-models-from-the-iwg/) post, including an embedded video by Professor Anthoff directly linked [here](https://www.youtube.com/watch?v=C2rqpHk3Rek&feature=emb_logo).
 
-*RFF SCC Webinar: https://www.rff.org/events/rff-live/the-social-cost-of-carbon-key-scientific-and-policy-considerations-for-the-biden-administration/*
+RFF SCC Webinar: https://www.rff.org/events/rff-live/the-social-cost-of-carbon-key-scientific-and-policy-considerations-for-the-biden-administration/
 
-*Mimi Data Tool (with embedded Mimi demonstration): https://www.rff.org/publications/data-tools/social-cost-of-carbon-computing-platform-models-from-the-iwg/*
+Mimi Data Tool (with embedded Mimi demonstration): https://www.rff.org/publications/data-tools/social-cost-of-carbon-computing-platform-models-from-the-iwg/
 
-*Direct YouTube Link to Mimi Demonstration: https://www.youtube.com/watch?v=C2rqpHk3Rek&feature=emb_logo*
+Direct YouTube Link to Mimi Demonstration: https://www.youtube.com/watch?v=C2rqpHk3Rek&feature=emb_logo
 
 ## 8/01/2019
 
