@@ -1,0 +1,76 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  
+  
+    <link rel="stylesheet" href="/css/jtd.css">
+
+   <title>Examples</title>  
+</head>
+<body>                      <!-- closed in foot.html -->
+<div class="page-wrap">   <!-- closed in foot.html -->
+  <!-- SIDE BAR -->
+  <div class="side-bar">
+    <div class="header">
+      <a href="/" class="title">
+        Mimi
+      </a>
+    </div>
+    <label for="show-menu" class="show-menu">MENU</label>
+    <input type="checkbox" id="show-menu" role="button">
+    <div class="menu" id="side-menu">
+      <ul class="menu-list">
+        <li class="menu-list-item "><a href="/" class="menu-list-link ">Home</a>
+        <li class="menu-list-item "><a href="/menu1/" class="menu-list-link ">News</a>
+        <li class="menu-list-item "><a href="/menu2/" class="menu-list-link ">Model Registry</a>
+        <li class="menu-list-item active"><a href="/menu3/" class="menu-list-link active">Examples</a>      
+        <li class="menu-list-item "><a href="/menu4/" class="menu-list-link ">Documentation</a>      
+      </ul>
+    </div>
+    <div class="footer">
+      Mimi: providing a component model for integrated assessment models
+    </div>
+  </div>
+  <!-- CONTENT -->
+  <div class="main-content-wrap"> <!-- closed in foot.html -->
+    <div class="main-content">    <!-- closed in foot.html -->
+      <div class="main-header">
+        <a id="github" href="https://github.com/mimiframework/Mimi.jl">Mimi on GitHub</a>
+      </div>
+
+
+
+<!-- Content appended here (in class franklin-content) -->
+<div class="franklin-content"><h1 id="examples"><a href="#examples" class="header-anchor">Examples</a></h1>
+<div class="franklin-toc"><ol><li><a href="#models">Models</a></li><li><a href="#monte_carlo_simulations">Monte Carlo Simulations</a></li><li><a href="#sensitivity_analysis">Sensitivity Analysis</a></li></ol></div>
+<p>Below are a few snapshots of Mimi&#39;s interactive UI, referred to as the Explorer and enabled with the <code>explore</code> and <code>plot</code> functions. This is mean to be a teaser windown into Mimi&#39;s functionality, and we direct interested parties to the github <a href="https://www.mimiframework.org/Mimi.jl/stable/">Documentation</a> for further information.</p>
+<h2 id="models"><a href="#models" class="header-anchor">Models</a></h2>
+<p>After creating and running a model using the Mimi framework, users are able to interactively explore the parameters and variables associated with their model using the <code>explore</code> function:</p>
+<p><img src="/assets/explorer_model_example.png" alt="" /></p>
+<p>And plot individual parameter or variable results using the <code>plot</code> function:</p>
+<p><img src="/assets/plot_model_example.png" alt="" /></p>
+<h2 id="monte_carlo_simulations"><a href="#monte_carlo_simulations" class="header-anchor">Monte Carlo Simulations</a></h2>
+<p>Mimi also provides support for running Monte Carlo simulations, and using the same API as above users can interactively explore the distributions of the resulting variables using the <code>explore</code> function:</p>
+<p><img src="/assets/explorer_sim_example.png" alt="" /></p>
+<p>And plot individual distribution results using the <code>plot</code> function:</p>
+<p><img src="/assets/plot_sim_example.png" alt="" /></p>
+<h2 id="sensitivity_analysis"><a href="#sensitivity_analysis" class="header-anchor">Sensitivity Analysis</a></h2>
+<p>Mimi includes a host of routines which support running various sensitivity analysis methods on Mimi models.</p>
+<div class="page-foot">
+  <div class="copyright">
+    <hr color:grey>
+    <br>David Anthoff, Richard Plevin, Cora Kingdon, and Lisa Rennels 
+    <br>Last modified: February 10, 2021 
+    <br>Website built with <a href="https://github.com/tlienart/Franklin.jl">Franklin.jl</a>.
+  </div>
+</div>
+</div><!-- CONTENT ENDS HERE -->
+    </div> <!-- end of class main-content -->
+    </div> <!-- end of class main-content-wrap -->
+    </div> <!-- end of class page-wrap-->
+    
+    
+  </body>
+</html>
