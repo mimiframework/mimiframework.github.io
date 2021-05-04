@@ -4,6 +4,10 @@
 
 \toc
 
+## 5/3/2021
+
+We have written up a repository and accompanying notebook [here](https://github.com/anthofflab/MimiFUND-MimiFAIR-Flat.jl/blob/main/MimiFUND-MimiFAIR-Flat.ipynb) to demonstrate the steps to couple together two models, specifically in this case replacng (most of) the [FUND model](https://github.com/fund-model/MimiFUND.jl)'s climate module with the [FAIR model](https://github.com/anthofflab/MimiFAIR.jl).
+
 ## 2/10/2021
 
 On February 10, 2021, Resources for the Future (RFF) held a [live webinar](https://www.rff.org/events/rff-live/the-social-cost-of-carbon-key-scientific-and-policy-considerations-for-the-biden-administration/) for over 1,000 participants described on rff.org as follows:
