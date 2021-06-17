@@ -10,6 +10,10 @@ Scovronick, N., Anthoff, D., Dennig, F., Errickson, F., Ferranna, M., Peng, W., 
 
 Errickson, F. C., Keller, K., Collins, W. D., Srikrishnan, V., & Anthoff, D. (2021). Equity is more important for the social cost of methane than climate uncertainty. Nature, 592(7855), 564-570. doi:10.1038/s41586-021-03386-6
 
+Rising, J., & Devineni, N. (2020). Crop switching reduces agricultural losses from climate change in the United States by half under RCP 8.5. Nature communications, 11(1), 1-7.
+
+Rising, J. (2020). Decision-making and integrated assessment models of the water-energy-food nexus. Water Security, 9, 100056.
+
 Anthoff, D., & Emmerling, J. (2019). Inequality and the social cost of carbon. Journal of the Association of Environmental and Resource Economists, 6(2), 243-273. doi:10.1086/701900
 
 Scovronick, N., Budolfson, M., Dennig, F., Errickson, F., Fleurbaey, M., Peng, W., ... & Wagner, F. (2019). The impact of human health co-benefits on evaluations of global climate policy. Nature communications, 10(1), 1-12. doi:10.1038/s41467-019-09499-x
