@@ -4,6 +4,14 @@
 
 \toc
 
+## 6/15/2021
+
+We released Mimi 1.3.0, featuring new and improved handling of setting and updating parameters, mostly driven by helpful requests and comments from users. These changes  will not be breaking, so your existing models should work in most cases, and if they don't please get in touch.  That said, we encourage taking a look at modifying your models accordingly if you have a chance.
+- See a full description here: https://www.mimiframework.org/Mimi.jl/stable/howto/howto_5/
+- ... and a guide to updating your existing code here: https://www.mimiframework.org/Mimi.jl/stable/howto/howto_9/
+
+Comments/Concerns are welcome!
+
 ## 5/3/2021
 
 We have written up a repository and accompanying notebook [here](https://github.com/anthofflab/MimiFUND-MimiFAIR-Flat.jl/blob/main/MimiFUND-MimiFAIR-Flat.ipynb) to demonstrate the steps to couple together two models, specifically in this case replacng (most of) the [FUND model](https://github.com/fund-model/MimiFUND.jl)'s climate module with the [FAIR model](https://github.com/anthofflab/MimiFAIR.jl).
