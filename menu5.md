@@ -4,6 +4,8 @@
 
 “Health Impacts of Climate Change as Contained in Economic Models Estimating the Social Cost of Carbon Dioxide” with Kevin Cromar, Peter Howard and Valeri Vasquez, GeoHealth, forthcoming
 
+Jarmo et al. (2021). The social cost of carbon dioxide under climate-economy feedbacks and temperature variability. ERL. https://iopscience.iop.org/article/10.1088/1748-9326/ac1d0b
+
 Errickson, F., Kuruc, K., & McFadden, J. (2021). Animal-based foods have high social and climate costs. Nature Food, 2(4), 274-281. doi:10.1038/s43016-021-00265-1
 
 Scovronick, N., Anthoff, D., Dennig, F., Errickson, F., Ferranna, M., Peng, W., ... & Budolfson, M. (2021). The importance of health co-benefits under different climate policy cooperation frameworks. Environmental Research Letters, 16(5), 055027.
