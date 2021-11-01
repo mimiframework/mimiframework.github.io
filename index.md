@@ -40,6 +40,7 @@ Several models already use the Mimi framework, including those linked below. A m
 * [RICE+AIR](https://github.com/Environment-Research/AIR)
 * [MooreAg.jl](https://github.com/ckingdon95/MooreAg.jl)
 * [MimiIWG.jl](https://github.com/rffscghg/MimiIWG.jl)
+* [MimiSSPs.jl](https://github.com/anthofflab/MimiSSPs.jl)
 
 ## Contributing
 
