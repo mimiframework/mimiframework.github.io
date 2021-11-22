@@ -28,6 +28,7 @@ Several models already use the Mimi framework, including those linked below. A m
 * [MimiRICE2010.jl](https://github.com/anthofflab/MimiRICE2010.jl)
 * [MimiSNEASY.jl](https://github.com/anthofflab/mimi-sneasy.jl)
 * [MimiFAIR.jl](https://github.com/anthofflab/mimi-fair.jl/)
+* [MimiFAIR13.jl](https://github.com/FrankErrickson/MimiFAIR13.jl)
 * [MimiPAGE2009.jl](https://github.com/anthofflab/MimiPAGE2009.jl/)
 * [MimiPAGE2020.jl](https://github.com/openmodels/MimiPAGE2020.jl)
 * [MimiMAGICC.jl](https://github.com/anthofflab/mimi-magicc.jl)
@@ -41,6 +42,7 @@ Several models already use the Mimi framework, including those linked below. A m
 * [MooreAg.jl](https://github.com/ckingdon95/MooreAg.jl)
 * [MimiIWG.jl](https://github.com/rffscghg/MimiIWG.jl)
 * [MimiSSPs.jl](https://github.com/anthofflab/MimiSSPs.jl)
+* [MimiIWG-HFC.jl](https://github.com/bryanparthum/MimiIWG-HFC)
 
 ## Contributing
 
