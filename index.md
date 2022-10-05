@@ -36,7 +36,7 @@ Several models already use the Mimi framework, including those linked below. A m
 * [MimiIWG.jl](https://github.com/rffscghg/MimiIWG.jl)
 * [MimiMAGICC.jl](https://github.com/anthofflab/mimi-magicc.jl)
 * [MimiMooreEtAlAgricultureImpacts.jl](https://github.com/rffscghg/MimiMooreEtAlAgricultureImpacts.jl)
-* [Mimi_NAS_pH.jl](https://github.com/FrankErrickson/Mimi_NAS_pH.jl)
+* [Mimi\_NAS\_pH.jl](https://github.com/FrankErrickson/Mimi_NAS_pH.jl)
 * [mimi_NICE](https://github.com/fdennig/mimi_NICE)
 * [MimiPAGE2009.jl](https://github.com/anthofflab/MimiPAGE2009.jl/)
 * [MimiPAGE2020.jl](https://github.com/openmodels/MimiPAGE2020.jl)
