@@ -16,6 +16,8 @@ Support for users is primarily hosted on the [Mimi Framework forum](https://foru
 
 *For the most up-to-date documentation that matches with the master branch of Mimi as opposed to the most recent tag, more advanced users may go [here](https://www.mimiframework.org/Mimi.jl/dev/) (or simply navigate to the "dev" option in the Version dropdown menu in the bottom-left hand corner of the documentation website), but unless required for your work using this branch and docs is **not recommended** as we cannot gaurantee stability of this branch at any given time.*
 
+Finally, if at any point julia-related issues with workflows, environments, and/or package versioning become frustrating, please do not hesitate to reach out via the [forum](https://forum.mimiframework.org).  This can be a hurdle to learn at first, but taking a moment to get it right early will save you **a lot** of time down the road.  We are more than happy to help you, and are getting together some standardized resources in the meantime.
+
 ## Models using Mimi
 
 Several models already use the Mimi framework, including those linked below. A majority of these models are part of the Mimi registry as detailed in the Mimi Registry subsection of this website. Note also that even models not registerd in the Mimi registry may be constructed to operate as packages. These practices are explained further in the documentation section "Explanations: Models as Packages".
