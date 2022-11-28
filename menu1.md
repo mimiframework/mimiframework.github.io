@@ -4,6 +4,14 @@
 
 \toc
 
+## 11/27/2022
+
+The newest model on our platform, [MimiGIVE](https://github.com/rffscghg/MimiGIVE.jl/tree/main/src) is a fully open source model featured in the recent Nature publication [Comprehensive evidence implies a higher social cost of CO2](https://www.nature.com/articles/s41586-022-05224-9) and featured in recent [EPA work](https://www.epa.gov/environmental-economics/scghg).
+
+## 11/1/2021
+
+Check out the new [MimiSSPs.jl](https://github.com/anthofflab/MimiSSPs.jl) component, pulling in various SSP and RCP data sources into a component to streamline running Mimi models as forced by the SSPs and RCPs.
+
 ## 6/15/2021
 
 We released Mimi 1.3.0, featuring new and improved handling of setting and updating parameters, mostly driven by helpful requests and comments from users. These changes  will not be breaking, so your existing models should work in most cases, and if they don't please get in touch.  That said, we encourage taking a look at modifying your models accordingly if you have a chance.
