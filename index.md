@@ -47,6 +47,7 @@ Several models already use the Mimi framework, including those linked below. A m
 * [Mimi-SNEASY.jl](https://github.com/anthofflab/mimi-sneasy.jl)
 * [MimiSSPs.jl](https://github.com/anthofflab/MimiSSPs.jl)
 * [AWASH](http://awashmodel.org/)
+* [GreenDICE](https://github.com/BerBastien/GreenDICE)
 * [PAGE-ICE](https://github.com/openmodels/PAGE-ICE)
 * [RICE+AIR](https://github.com/Environment-Research/AIR)
 

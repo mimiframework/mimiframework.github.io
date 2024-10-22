@@ -1,20 +1,36 @@
 @def title = "Publications"
 
-# Publications Using Mimi
+# Selection of Publications Using Mimi
 
-“Health Impacts of Climate Change as Contained in Economic Models Estimating the Social Cost of Carbon Dioxide” with Kevin Cromar, Peter Howard and Valeri Vasquez, GeoHealth, forthcoming
+Tan, T., Rennels, L., & Parthum, B. (2024). The social costs of hydrofluorocarbons and the benefits from their expedited phase-down. Nature climate change, 14(1), 55-60.
 
-Jarmo et al. (2021). The social cost of carbon dioxide under climate-economy feedbacks and temperature variability. ERL. https://iopscience.iop.org/article/10.1088/1748-9326/ac1d0b
+Rennels, L., & Chasins, S. E. (2023). How domain experts use an embedded DSL. Proceedings of the ACM on Programming Languages, 7(OOPSLA2), 1499-1530.
+
+Benveniste, H., Oppenheimer, M., & Fleurbaey, M. (2022). Climate change increases resource-constrained international immobility. Nature Climate Change, 12(7), 634-641.
+
+Rennert, K., Errickson, F., Prest, B. C., Rennels, L., Newell, R. G., Pizer, W., ... & Anthoff, D. (2022). Comprehensive evidence implies a higher social cost of CO2. Nature, 610(7933), 687-692.
+
+Wong, T. E., Ledna, C., Rennels, L., Sheets, H., Errickson, F. C., Diaz, D., & Anthoff, D. (2022). Sea Level and Socioeconomic Uncertainty Drives High‐End Coastal Adaptation Costs. Earth's Future, 10(12), e2022EF003061.
+
+Wong, T. E., Rennels, L., Errickson, F., Srikrishnan, V., Bakker, A., Keller, K., & Anthoff, D. (2022). MimiBRICK. jl: A Julia package for the BRICK model for sea-level change in the Mimi integrated modeling framework. Journal of Open Source Software, 7(76), 4556.
+
+Cromar, K., Howard, P., Vásquez, V. N., & Anthoff, D. (2021). Health impacts of climate change as contained in economic models estimating the social cost of carbon dioxide. GeoHealth, 5(8), e2021GH000405.
+
+Bastien-Olvera, B. A., & Moore, F. C. (2021). Use and non-use value of nature and the social cost of carbon. Nature Sustainability, 4(2), 101-108.
+
+Errickson, F. C., Keller, K., Collins, W. D., Srikrishnan, V., & Anthoff, D. (2021). Equity is more important for the social cost of methane than climate uncertainty. Nature, 592(7855), 564-570. doi:10.1038/s41586-021-03386-6
 
 Errickson, F., Kuruc, K., & McFadden, J. (2021). Animal-based foods have high social and climate costs. Nature Food, 2(4), 274-281. doi:10.1038/s43016-021-00265-1
 
-Scovronick, N., Anthoff, D., Dennig, F., Errickson, F., Ferranna, M., Peng, W., ... & Budolfson, M. (2021). The importance of health co-benefits under different climate policy cooperation frameworks. Environmental Research Letters, 16(5), 055027.
+Jarmo et al. (2021). The social cost of carbon dioxide under climate-economy feedbacks and temperature variability. ERL. https://iopscience.iop.org/article/10.1088/1748-9326/ac1d0b
 
-Errickson, F. C., Keller, K., Collins, W. D., Srikrishnan, V., & Anthoff, D. (2021). Equity is more important for the social cost of methane than climate uncertainty. Nature, 592(7855), 564-570. doi:10.1038/s41586-021-03386-6
+Scovronick, N., Anthoff, D., Dennig, F., Errickson, F., Ferranna, M., Peng, W., ... & Budolfson, M. (2021). The importance of health co-benefits under different climate policy cooperation frameworks. Environmental Research Letters, 16(5), 055027.
 
 Rising, J., & Devineni, N. (2020). Crop switching reduces agricultural losses from climate change in the United States by half under RCP 8.5. Nature communications, 11(1), 1-7.
 
 Rising, J. (2020). Decision-making and integrated assessment models of the water-energy-food nexus. Water Security, 9, 100056.
+
+Benveniste, H., Oppenheimer, M., & Fleurbaey, M. (2020). Effect of border policy on exposure and vulnerability to climate change. Proceedings of the National Academy of Sciences, 117(43), 26692-26702.
 
 Anthoff, D., & Emmerling, J. (2019). Inequality and the social cost of carbon. Journal of the Association of Environmental and Resource Economists, 6(2), 243-273. doi:10.1086/701900
 
