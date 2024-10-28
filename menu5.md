@@ -2,6 +2,8 @@
 
 # Selection of Publications Using Mimi
 
+Prest, B. C., Rennels, L., Errickson, F., & Anthoff, D. (2024). Equity weighting increases the social cost of carbon. Science, 385(6710), 715-717.
+
 Tan, T., Rennels, L., & Parthum, B. (2024). The social costs of hydrofluorocarbons and the benefits from their expedited phase-down. Nature climate change, 14(1), 55-60.
 
 Rennels, L., & Chasins, S. E. (2023). How domain experts use an embedded DSL. Proceedings of the ACM on Programming Languages, 7(OOPSLA2), 1499-1530.
